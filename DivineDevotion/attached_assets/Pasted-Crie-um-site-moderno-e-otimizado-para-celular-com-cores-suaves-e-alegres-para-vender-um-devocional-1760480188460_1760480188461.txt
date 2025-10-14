@@ -1,0 +1,45 @@
+Crie um site moderno e otimizado para celular, com cores suaves e alegres, para vender um devocional cristão infantil chamado “Meu Devocionalzinho Kids”, voltado para pais de crianças entre 3 e 15 anos.
+
+Cabeçalho:
+	•	Título principal: “Fortaleça a fé da sua família com o Meu Devocionalzinho Kids!”
+	•	Subtítulo: “O devocional cristão que aproxima pais e filhos de Deus todos os dias.”
+	•	Mostre fotos de crianças fazendo devocional com os pais, sorrindo e lendo a Bíblia juntos.
+	•	Destaque: “Mais de 500 famílias já transformaram suas manhãs com este devocional.”
+	•	Exiba avaliação de 4,9 de 5 estrelas com ícones de estrelas douradas.
+
+Seção “O que você vai encontrar”:
+	•	Histórias bíblicas contadas de forma divertida e acessível.
+	•	Orações simples para o dia a dia da criança.
+	•	Atividades e desafios cristãos para fazer em família.
+	•	Versículos para memorizar e conversar juntos.
+
+Seção “Por que você deve comprar o devocional”:
+	•	Fortalece a fé e o vínculo familiar.
+	•	Desenvolve valores cristãos desde a infância.
+	•	Ensina princípios bíblicos com leveza e alegria.
+	•	Ajuda os pais a conduzirem momentos devocionais de forma prática.
+
+Seção de feedback (depoimentos de mães):
+	•	“Minha filha de 6 anos ama o momento do devocional agora!” – Ana Paula, Florianópolis
+	•	“Transformou nossas noites! Aprendemos juntos sobre Deus.” – Mariana, Curitiba
+	•	“Um material lindo e fácil de usar, vale cada centavo.” – Luciana, São Paulo
+
+Oferta especial:
+	•	Mostre o preço atual: R$ 12,99
+	•	Mostre o preço original riscado: R$ 59,99
+	•	Destaque: -78% de desconto!
+	•	Adicione um timer de 5 minutos em contagem regressiva com a frase “Oferta termina em:”
+
+Botão de compra chamativo:
+	•	Texto: “Quero meu devocional agora!”
+	•	Cor: verde ou dourado, com efeito de destaque.
+
+Contato e suporte:
+	•	“Ficou com dúvidas?”
+	•	E-mail: meudevocionalzinhokidss@gmail.com
+	•	Suporte 24h: (48) 99960-1757
+
+O site deve ter um layout otimizado para celular, com botões grandes, fontes legíveis, e design limpo, transmitindo calma, fé e confiança.
+Use cores suaves (branco, azul-claro, amarelo e dourado) e imagens que transmitam alegria e espiritualidade familiar.
+
+arrume o site para caber no iphone se, e em todos os outros. o texto'quero meu devocional agora' está saindo da página, e também está sobrando do lado direito inteiro da pagina. adicione essas duas fotos ao inves das genericas
